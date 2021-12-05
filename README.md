@@ -8,7 +8,7 @@ Rough Front-End Development Kit
 ## Instructions
 ![image](https://user-images.githubusercontent.com/75137068/144762328-d6f180c8-7b79-46c1-bea0-0681a18acbb9.png)
 ### White Box AKA Chalkboard:
--> This is the space where you can View/Select the web design you will be developing.__
+-> This is the space where you can View/Select the web design you will be developing.<br />
 -> To select an element from the "chalkboard" you just need to click down that element. After that, the selected element will show it's border color style as green.
 
 ### Bottom Left Box:
