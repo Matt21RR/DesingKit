@@ -2,7 +2,7 @@
 Rough Front-End Development Kit 
 
 ## Working in...
-->Microsoft Edge(Chromium based version AKA The newer one)
+->Microsoft Edge(Chromium based version AKA The newer one)<br />
 ->PHP 8.0
 
 ## Instructions
