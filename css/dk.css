@@ -1,0 +1,90 @@
+.cB{/*CreationBox*/
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: brown;
+    animation-name: 'showUIGlobCreateEvent';
+    animation-duration: 0.3s;
+}
+.mB{/*mainBox*/
+    transition: 0.3s;
+    position: relative;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+}
+.mMBP{
+    height: 100%;
+    padding-bottom: 130px;
+    display: flex;
+}
+.mMB{
+    height: 100%;
+    width: 100%;
+    overflow-y: auto;
+}
+.cOB, .cOBA, .cOBB, .cOBC, .cOBD{
+    color:white;
+    background-color: rgb(17, 17, 17);
+    border: 2px solid rgb(50, 50, 50);
+}
+.cOBB input[type="text"] ,.cOBD input[type="text"]{
+    background-color: rgb(17,17,17);
+    color: white;
+}
+.cOBC textarea{
+    background-color: rgb(17,17,17);
+    color: white;
+}
+.cOB{
+    bottom:0;
+    left:0;
+    right:0;
+    position: absolute !important;
+    height: 130px;
+    padding: 4px;
+    display: flex;
+}
+.cOBA{
+    width: 25%;
+    height: 100%;
+}
+.cOBB{
+    width: 30%;
+    height:100%;
+}
+.cOBC{
+    height: 100%;
+    width: 300px;
+}
+.cOBD{
+    width: 45%;
+}
+.elementClassNames,.stylesheetEditor,.elementText{
+    width: 100%;
+    height: 90px;
+}
+.stylesheetEditor{
+    height: 75%;
+}
+.draggable{
+    position: absolute;
+}
+.defaultDiv{
+    border:2px solid black;
+    width: 95%;
+    height: 95%;
+}
+input[type=radio]{
+    display: none;
+}
+.cOBD textarea{
+    background-color: rgb(17,17,17);
+    color: white;
+}
+.selected{
+    border:2px solid darkgreen !important;
+}
+body{
+    font-size: smaller !important;
+}

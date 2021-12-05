@@ -1,0 +1,36 @@
+.descTitle{
+height:40px;
+text-align:center;
+padding:5px;
+}
+.fatherC{
+position:relative;
+height:100%;
+/*overflow-y:hidden;*/
+}
+.sFC{
+height: 100%;
+width:100%;
+position:absolute;
+display:flex;
+}
+.sFC .opBox, .sFC .descBox{
+width:50%;
+}
+.sFC .opBox{
+text-align:center;
+}
+.sFC .descBox{
+overflow-y:auto;
+position:relative;
+}
+.sFC .descBox span{
+position:relative;
+/*display:none;
+opacity:0;*/
+}
+@media  screen and (max-width:576px) {
+.sFC{flex-flow: column;}
+.sFC .opBox{width:100%;display:grid;}
+.sFC .descBox{width:100%;padding:1rem;}
+}
