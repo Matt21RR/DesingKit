@@ -19,6 +19,14 @@ Rough Front-End Development Kit
 -> ClassNames of the selected element: This is where you can view and edit the ClassNames of the element you had selected previously (Warning: Please *DON'T DELETE THE "SELECTED" OR "DEFAULTDIV" CLASSNAME FROM THE SELECTED ELEMENT*).<br />
 -> By default every "Div" element created have a "DefaultDiv" classname, that exist to show easily the element inside the "chalkboard". If you want to disable the "DEFAULTDIV" properties goto the *left lateral Stylerule Creator / Editor bar* section of this document.<br />
 
+### Bottom Right Box:
+-> This is where you can show/edit the innerHTML of the selected element.<br />
+
+## left lateral Stylerule Creator / Editor bar
+-> This is where you can show/edit the stylerule to use in your web design<br />
+(By default, the DK have included the Bootstrap 5.0 libraries)<br />
+-> Down of the space where the input where you write the Stylerules you can find the "DefaultDiv" rules. Here you can enable/disable the "DefaultDiv" properties.<br /> 
+
 ## Shortcuts
--> For show/hide the left lateral Stylerule Creator / Editor bar
+-> For show/hide the left lateral Stylerule Creator / Editor bar<br />
 Ctrl + Alt + "<"
