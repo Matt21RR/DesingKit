@@ -28,5 +28,5 @@ Rough Front-End Development Kit
 -> Down of the space where the input where you write the Stylerules you can find the "DefaultDiv" rules. Here you can enable/disable the "DefaultDiv" properties.<br /> 
 
 ## Shortcuts
--> For show/hide the left lateral Stylerule Creator / Editor bar<br />
+-> To show/hide the left lateral Stylerule Creator / Editor bar<br />
 Ctrl + Alt + "<"
